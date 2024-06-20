@@ -614,7 +614,11 @@ body {
         left: 20px;
         top:40px; 
         width: 100px;
+<<<<<<< HEAD
         align-items: center;
+=======
+        align-item: center;
+>>>>>>> 2c54de5b34ae87cfcb69b1ba65c1dc5f6573cac2
     }
     #lg1{
         position: relative;
