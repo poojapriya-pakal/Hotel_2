@@ -614,14 +614,12 @@ body {
         left: 20px;
         top:40px; 
         width: 100px;
+        align-items: center;
     }
     #lg1{
         position: relative;
         right: 80px;
     }
-
-
-    
     #lg{
         position: relative;
         right: 80px;
