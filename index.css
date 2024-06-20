@@ -614,6 +614,7 @@ body {
         left: 20px;
         top:40px; 
         width: 100px;
+        align-item: center;
     }
     #lg1{
         position: relative;
